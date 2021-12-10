@@ -1,0 +1,15 @@
+C:\Users\sss\source\repos\shop5\shop5\bin\Debug\shop5.exe.config
+C:\Users\sss\source\repos\shop5\shop5\bin\Debug\shop5.exe
+C:\Users\sss\source\repos\shop5\shop5\bin\Debug\shop5.pdb
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.csprojAssemblyReference.cache
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.Properties.Resources.resources
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.csproj.GenerateResource.cache
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.exe
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.pdb
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.Form1.resources
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.Form2.resources
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.Form3.resources
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.Form4.resources
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.Form5.resources
+C:\Users\sss\source\repos\shop5\shop5\obj\Debug\shop5.Form6.resources
